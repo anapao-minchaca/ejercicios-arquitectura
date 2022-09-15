@@ -5,6 +5,13 @@
 # importación de la herencia y un método abstracto
 from abc import ABC, abstractmethod
 
+class Contact:
+    def __init__(self, name, email, phone):
+        self.name = name
+        self.email = email
+        self.phone = phone
+        pass
+
 class Notification(ABC):
     @abstractmethod
     def notify(self, message, email):
@@ -15,15 +22,8 @@ class Email(Notification):
         print(f'send {message} to {email}')
 
 class Text(Notification):
-    def notify(self, message, email):
-        print(f'send {message} to {email}')
-
-class Contact:
-    def __init__(self, name, email, phone):
-        self.name = name
-        self.email = email
-        self.phone = phone
-        pass
+    def notify(self, _message_, phone):
+        print(f'send {_message_} to {phone}')
 
 class NotificationManager:
     def __init__(self, notification, contact):
@@ -34,7 +34,7 @@ class NotificationManager:
         if isinstance(self.notification, Email):
             self.notification.notify(message, contact.email)
         elif isinstance(self.notification, Text):
-            self.notification.notify(message, contact.email)
+            self.notification.notify(message, contact.phone)
         else:
             raise Exception ('La notificación que nos enviaste no está disponible aún')
 
