@@ -1,0 +1,15 @@
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\ejemplos\BuilderReal\bin\Debug\net6.0\BuilderReal.exe
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\ejemplos\BuilderReal\bin\Debug\net6.0\BuilderReal.deps.json
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\ejemplos\BuilderReal\bin\Debug\net6.0\BuilderReal.runtimeconfig.json
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\ejemplos\BuilderReal\bin\Debug\net6.0\BuilderReal.dll
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\ejemplos\BuilderReal\bin\Debug\net6.0\BuilderReal.pdb
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\ejemplos\BuilderReal\obj\Debug\net6.0\BuilderReal.csproj.AssemblyReference.cache
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\ejemplos\BuilderReal\obj\Debug\net6.0\BuilderReal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\ejemplos\BuilderReal\obj\Debug\net6.0\BuilderReal.AssemblyInfoInputs.cache
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\ejemplos\BuilderReal\obj\Debug\net6.0\BuilderReal.AssemblyInfo.cs
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\ejemplos\BuilderReal\obj\Debug\net6.0\BuilderReal.csproj.CoreCompileInputs.cache
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\ejemplos\BuilderReal\obj\Debug\net6.0\BuilderReal.dll
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\ejemplos\BuilderReal\obj\Debug\net6.0\refint\BuilderReal.dll
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\ejemplos\BuilderReal\obj\Debug\net6.0\BuilderReal.pdb
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\ejemplos\BuilderReal\obj\Debug\net6.0\BuilderReal.genruntimeconfig.cache
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\ejemplos\BuilderReal\obj\Debug\net6.0\ref\BuilderReal.dll

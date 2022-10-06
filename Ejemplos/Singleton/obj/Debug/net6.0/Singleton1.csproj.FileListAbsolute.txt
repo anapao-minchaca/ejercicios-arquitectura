@@ -1,0 +1,15 @@
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\Singleton1\bin\Debug\net6.0\Singleton1.exe
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\Singleton1\bin\Debug\net6.0\Singleton1.deps.json
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\Singleton1\bin\Debug\net6.0\Singleton1.runtimeconfig.json
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\Singleton1\bin\Debug\net6.0\Singleton1.dll
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\Singleton1\bin\Debug\net6.0\Singleton1.pdb
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\Singleton1\obj\Debug\net6.0\Singleton1.csproj.AssemblyReference.cache
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\Singleton1\obj\Debug\net6.0\Singleton1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\Singleton1\obj\Debug\net6.0\Singleton1.AssemblyInfoInputs.cache
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\Singleton1\obj\Debug\net6.0\Singleton1.AssemblyInfo.cs
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\Singleton1\obj\Debug\net6.0\Singleton1.csproj.CoreCompileInputs.cache
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\Singleton1\obj\Debug\net6.0\Singleton1.dll
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\Singleton1\obj\Debug\net6.0\refint\Singleton1.dll
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\Singleton1\obj\Debug\net6.0\Singleton1.pdb
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\Singleton1\obj\Debug\net6.0\Singleton1.genruntimeconfig.cache
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\Singleton1\obj\Debug\net6.0\ref\Singleton1.dll

@@ -1,0 +1,5 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Patrones\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Patrones\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Patrones\AbstractFactory\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Patrones\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Patrones\AbstractFactory\obj\Debug\AbstractFactory.pdb

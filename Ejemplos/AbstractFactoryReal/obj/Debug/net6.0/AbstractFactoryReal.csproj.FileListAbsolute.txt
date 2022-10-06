@@ -1,0 +1,15 @@
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\ejemplos\AbstractFactoryReal\bin\Debug\net6.0\AbstractFactoryReal.exe
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\ejemplos\AbstractFactoryReal\bin\Debug\net6.0\AbstractFactoryReal.deps.json
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\ejemplos\AbstractFactoryReal\bin\Debug\net6.0\AbstractFactoryReal.runtimeconfig.json
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\ejemplos\AbstractFactoryReal\bin\Debug\net6.0\AbstractFactoryReal.dll
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\ejemplos\AbstractFactoryReal\bin\Debug\net6.0\AbstractFactoryReal.pdb
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\ejemplos\AbstractFactoryReal\obj\Debug\net6.0\AbstractFactoryReal.csproj.AssemblyReference.cache
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\ejemplos\AbstractFactoryReal\obj\Debug\net6.0\AbstractFactoryReal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\ejemplos\AbstractFactoryReal\obj\Debug\net6.0\AbstractFactoryReal.AssemblyInfoInputs.cache
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\ejemplos\AbstractFactoryReal\obj\Debug\net6.0\AbstractFactoryReal.AssemblyInfo.cs
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\ejemplos\AbstractFactoryReal\obj\Debug\net6.0\AbstractFactoryReal.csproj.CoreCompileInputs.cache
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\ejemplos\AbstractFactoryReal\obj\Debug\net6.0\AbstractFactoryReal.dll
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\ejemplos\AbstractFactoryReal\obj\Debug\net6.0\refint\AbstractFactoryReal.dll
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\ejemplos\AbstractFactoryReal\obj\Debug\net6.0\AbstractFactoryReal.pdb
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\ejemplos\AbstractFactoryReal\obj\Debug\net6.0\AbstractFactoryReal.genruntimeconfig.cache
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\ejemplos\AbstractFactoryReal\obj\Debug\net6.0\ref\AbstractFactoryReal.dll
