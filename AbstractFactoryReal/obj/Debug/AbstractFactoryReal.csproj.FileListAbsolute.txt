@@ -1,5 +1,0 @@
-C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Patrones\AbstractFactoryReal\bin\Debug\AbstractFactoryReal.exe
-C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Patrones\AbstractFactoryReal\bin\Debug\AbstractFactoryReal.pdb
-C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Patrones\AbstractFactoryReal\obj\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Patrones\AbstractFactoryReal\obj\Debug\AbstractFactoryReal.exe
-C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Patrones\AbstractFactoryReal\obj\Debug\AbstractFactoryReal.pdb
