@@ -1,0 +1,15 @@
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\191022\_singleton_\obj\Debug\net6.0\_singleton_.csproj.AssemblyReference.cache
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\191022\_singleton_\obj\Debug\net6.0\_singleton_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\191022\_singleton_\obj\Debug\net6.0\_singleton_.AssemblyInfoInputs.cache
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\191022\_singleton_\obj\Debug\net6.0\_singleton_.AssemblyInfo.cs
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\191022\_singleton_\obj\Debug\net6.0\_singleton_.csproj.CoreCompileInputs.cache
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\191022\_singleton_\bin\Debug\net6.0\_singleton_.exe
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\191022\_singleton_\bin\Debug\net6.0\_singleton_.deps.json
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\191022\_singleton_\bin\Debug\net6.0\_singleton_.runtimeconfig.json
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\191022\_singleton_\bin\Debug\net6.0\_singleton_.dll
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\191022\_singleton_\bin\Debug\net6.0\_singleton_.pdb
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\191022\_singleton_\obj\Debug\net6.0\_singleton_.dll
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\191022\_singleton_\obj\Debug\net6.0\refint\_singleton_.dll
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\191022\_singleton_\obj\Debug\net6.0\_singleton_.pdb
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\191022\_singleton_\obj\Debug\net6.0\_singleton_.genruntimeconfig.cache
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\191022\_singleton_\obj\Debug\net6.0\ref\_singleton_.dll
