@@ -1,0 +1,15 @@
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\191022\_factory_\bin\Debug\net6.0\_factory_.exe
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\191022\_factory_\bin\Debug\net6.0\_factory_.deps.json
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\191022\_factory_\bin\Debug\net6.0\_factory_.runtimeconfig.json
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\191022\_factory_\bin\Debug\net6.0\_factory_.dll
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\191022\_factory_\bin\Debug\net6.0\_factory_.pdb
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\191022\_factory_\obj\Debug\net6.0\_factory_.csproj.AssemblyReference.cache
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\191022\_factory_\obj\Debug\net6.0\_factory_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\191022\_factory_\obj\Debug\net6.0\_factory_.AssemblyInfoInputs.cache
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\191022\_factory_\obj\Debug\net6.0\_factory_.AssemblyInfo.cs
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\191022\_factory_\obj\Debug\net6.0\_factory_.csproj.CoreCompileInputs.cache
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\191022\_factory_\obj\Debug\net6.0\_factory_.dll
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\191022\_factory_\obj\Debug\net6.0\refint\_factory_.dll
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\191022\_factory_\obj\Debug\net6.0\_factory_.pdb
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\191022\_factory_\obj\Debug\net6.0\_factory_.genruntimeconfig.cache
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\191022\_factory_\obj\Debug\net6.0\ref\_factory_.dll
