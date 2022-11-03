@@ -1,0 +1,15 @@
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\021122\_builder_\bin\Debug\net6.0\_builder_.exe
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\021122\_builder_\bin\Debug\net6.0\_builder_.deps.json
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\021122\_builder_\bin\Debug\net6.0\_builder_.runtimeconfig.json
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\021122\_builder_\bin\Debug\net6.0\_builder_.dll
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\021122\_builder_\bin\Debug\net6.0\_builder_.pdb
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\021122\_builder_\obj\Debug\net6.0\_builder_.csproj.AssemblyReference.cache
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\021122\_builder_\obj\Debug\net6.0\_builder_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\021122\_builder_\obj\Debug\net6.0\_builder_.AssemblyInfoInputs.cache
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\021122\_builder_\obj\Debug\net6.0\_builder_.AssemblyInfo.cs
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\021122\_builder_\obj\Debug\net6.0\_builder_.csproj.CoreCompileInputs.cache
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\021122\_builder_\obj\Debug\net6.0\_builder_.dll
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\021122\_builder_\obj\Debug\net6.0\refint\_builder_.dll
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\021122\_builder_\obj\Debug\net6.0\_builder_.pdb
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\021122\_builder_\obj\Debug\net6.0\_builder_.genruntimeconfig.cache
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\021122\_builder_\obj\Debug\net6.0\ref\_builder_.dll

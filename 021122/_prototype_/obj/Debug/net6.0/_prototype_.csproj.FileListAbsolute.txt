@@ -1,0 +1,15 @@
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\021122\_prototype_\bin\Debug\net6.0\_prototype_.exe
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\021122\_prototype_\bin\Debug\net6.0\_prototype_.deps.json
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\021122\_prototype_\bin\Debug\net6.0\_prototype_.runtimeconfig.json
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\021122\_prototype_\bin\Debug\net6.0\_prototype_.dll
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\021122\_prototype_\bin\Debug\net6.0\_prototype_.pdb
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\021122\_prototype_\obj\Debug\net6.0\_prototype_.csproj.AssemblyReference.cache
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\021122\_prototype_\obj\Debug\net6.0\_prototype_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\021122\_prototype_\obj\Debug\net6.0\_prototype_.AssemblyInfoInputs.cache
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\021122\_prototype_\obj\Debug\net6.0\_prototype_.AssemblyInfo.cs
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\021122\_prototype_\obj\Debug\net6.0\_prototype_.csproj.CoreCompileInputs.cache
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\021122\_prototype_\obj\Debug\net6.0\_prototype_.dll
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\021122\_prototype_\obj\Debug\net6.0\refint\_prototype_.dll
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\021122\_prototype_\obj\Debug\net6.0\_prototype_.pdb
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\021122\_prototype_\obj\Debug\net6.0\_prototype_.genruntimeconfig.cache
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\021122\_prototype_\obj\Debug\net6.0\ref\_prototype_.dll
