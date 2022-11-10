@@ -1,0 +1,5 @@
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\091122\_adapter_02_\obj\Debug\net6.0\_adapter_02_.csproj.AssemblyReference.cache
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\091122\_adapter_02_\obj\Debug\net6.0\_adapter_02_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\091122\_adapter_02_\obj\Debug\net6.0\_adapter_02_.AssemblyInfoInputs.cache
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\091122\_adapter_02_\obj\Debug\net6.0\_adapter_02_.AssemblyInfo.cs
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\091122\_adapter_02_\obj\Debug\net6.0\_adapter_02_.csproj.CoreCompileInputs.cache

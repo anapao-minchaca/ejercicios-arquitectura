@@ -1,0 +1,15 @@
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\091122\_adapter_\bin\Debug\net6.0\_adapter_.exe
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\091122\_adapter_\bin\Debug\net6.0\_adapter_.deps.json
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\091122\_adapter_\bin\Debug\net6.0\_adapter_.runtimeconfig.json
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\091122\_adapter_\bin\Debug\net6.0\_adapter_.dll
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\091122\_adapter_\bin\Debug\net6.0\_adapter_.pdb
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\091122\_adapter_\obj\Debug\net6.0\_adapter_.csproj.AssemblyReference.cache
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\091122\_adapter_\obj\Debug\net6.0\_adapter_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\091122\_adapter_\obj\Debug\net6.0\_adapter_.AssemblyInfoInputs.cache
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\091122\_adapter_\obj\Debug\net6.0\_adapter_.AssemblyInfo.cs
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\091122\_adapter_\obj\Debug\net6.0\_adapter_.csproj.CoreCompileInputs.cache
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\091122\_adapter_\obj\Debug\net6.0\_adapter_.dll
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\091122\_adapter_\obj\Debug\net6.0\refint\_adapter_.dll
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\091122\_adapter_\obj\Debug\net6.0\_adapter_.pdb
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\091122\_adapter_\obj\Debug\net6.0\_adapter_.genruntimeconfig.cache
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\091122\_adapter_\obj\Debug\net6.0\ref\_adapter_.dll
