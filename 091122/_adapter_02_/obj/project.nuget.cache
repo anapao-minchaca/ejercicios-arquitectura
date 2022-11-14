@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "gtp20y0FJv2oU7g+oJk2PxhY7lBWk0SCxXRZV2WuhnFt8xLSyc7c3uJ41VB0Fk4NRCdNrRs6m+3t1GXmenQ8RA==",
+  "dgSpecHash": "3W9Pfh4U22AtB4wthDI9u3H9YcD7xdm2Pbjwrs+AjVBbIY+t9xCk1E68uxsWLRL4IctB7ERB02Vx/qdpPjaT2w==",
   "success": true,
   "projectFilePath": "C:\\Users\\Ana\\Documents\\GitHub\\ejercicios-arquitectura\\091122\\_adapter_02_\\_adapter_02_.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Ana\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

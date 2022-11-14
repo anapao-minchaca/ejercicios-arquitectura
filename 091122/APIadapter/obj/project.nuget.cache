@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "b5rZWlFO4KVzxGi3Dybr/XYUs0GSRLwp7e0p1WqNcpQ171wprzHTnevZzsVngYazCh/XQOmygj26lQRZGX2w1w==",
+  "dgSpecHash": "kZljdWOpipAbcQh53VaosTl2NYg3oGjsnyS6fX3gQo54DIZo2uquVaWHtN7egAHM8YXj3OsWGAgmS7qvjwmc9w==",
   "success": true,
   "projectFilePath": "C:\\Users\\Ana\\Documents\\GitHub\\ejercicios-arquitectura\\091122\\APIadapter\\APIadapter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ana\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Ana\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Ana\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\Ana\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\Ana\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\Ana\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",

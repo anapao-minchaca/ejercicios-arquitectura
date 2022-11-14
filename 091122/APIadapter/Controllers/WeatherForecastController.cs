@@ -1,4 +1,6 @@
+using System.Xml.Linq;
 using Microsoft.AspNetCore.Mvc;
+using Newtonsoft.Json;
 
 namespace APIadapter.Controllers;
 
@@ -21,15 +23,26 @@ public class WeatherForecastController : ControllerBase
         _logger = logger;
     }
 
-    [HttpGet(Name = "GetWeatherForecast")]
+    [HttpGet]
     public IEnumerable<WeatherForecast> Get()
     {
-        return Enumerable.Range(1, 5).Select(index => new WeatherForecast
+        var weatherForecast = Enumerable.Range(1, 5).Select(index => new WeatherForecast
         {
             Date = DateTime.Now.AddDays(index),
             TemperatureC = Random.Shared.Next(-20, 55),
             Summary = Summaries[Random.Shared.Next(Summaries.Length)]
         })
         .ToArray();
+
+        return weatherForecast;
+    }
+
+    [HttpPost("weatherXML")]
+    public string DataReciever(WeatherForecast weatherForecast)
+    {
+        string weatherJSON = Newtonsoft.Json.JsonConvert.SerializeObject(weatherForecast);
+        XNode weatherXML = JsonConvert.DeserializeXNode(weatherJSON, "WeatherForecast");
+        Console.WriteLine(weatherXML);
+        return weatherXML.ToString();
     }
 }

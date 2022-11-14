@@ -25,3 +25,4 @@ C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\091122\APIadapter\obj\Debu
 C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\091122\APIadapter\obj\Debug\net6.0\APIadapter.pdb
 C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\091122\APIadapter\obj\Debug\net6.0\APIadapter.genruntimeconfig.cache
 C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\091122\APIadapter\obj\Debug\net6.0\ref\APIadapter.dll
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\091122\APIadapter\bin\Debug\net6.0\Newtonsoft.Json.dll
