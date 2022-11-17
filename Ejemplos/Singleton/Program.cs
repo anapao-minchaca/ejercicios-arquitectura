@@ -2,6 +2,7 @@
 
 // Singleton pattern -- Ejemplo estructural
 // dotnet run
+// https://www.dofactory.com/net/singleton-design-pattern
 
 namespace Patrones.Singleton
 {

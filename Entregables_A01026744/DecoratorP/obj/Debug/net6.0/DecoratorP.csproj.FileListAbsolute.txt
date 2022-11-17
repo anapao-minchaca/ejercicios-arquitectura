@@ -1,0 +1,15 @@
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\Entregables_A01026744\DecoratorP\bin\Debug\net6.0\DecoratorP.exe
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\Entregables_A01026744\DecoratorP\bin\Debug\net6.0\DecoratorP.deps.json
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\Entregables_A01026744\DecoratorP\bin\Debug\net6.0\DecoratorP.runtimeconfig.json
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\Entregables_A01026744\DecoratorP\bin\Debug\net6.0\DecoratorP.dll
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\Entregables_A01026744\DecoratorP\bin\Debug\net6.0\DecoratorP.pdb
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\Entregables_A01026744\DecoratorP\obj\Debug\net6.0\DecoratorP.csproj.AssemblyReference.cache
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\Entregables_A01026744\DecoratorP\obj\Debug\net6.0\DecoratorP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\Entregables_A01026744\DecoratorP\obj\Debug\net6.0\DecoratorP.AssemblyInfoInputs.cache
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\Entregables_A01026744\DecoratorP\obj\Debug\net6.0\DecoratorP.AssemblyInfo.cs
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\Entregables_A01026744\DecoratorP\obj\Debug\net6.0\DecoratorP.csproj.CoreCompileInputs.cache
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\Entregables_A01026744\DecoratorP\obj\Debug\net6.0\DecoratorP.dll
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\Entregables_A01026744\DecoratorP\obj\Debug\net6.0\refint\DecoratorP.dll
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\Entregables_A01026744\DecoratorP\obj\Debug\net6.0\DecoratorP.pdb
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\Entregables_A01026744\DecoratorP\obj\Debug\net6.0\DecoratorP.genruntimeconfig.cache
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\Entregables_A01026744\DecoratorP\obj\Debug\net6.0\ref\DecoratorP.dll

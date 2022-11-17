@@ -1,5 +1,7 @@
 namespace Patrones.AbstractFactory
 {
+
+    // agregar sabores
     class FabricaQuimica : IFabrica
     {
         private IProductoLeche leche;

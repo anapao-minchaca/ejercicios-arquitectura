@@ -1,0 +1,15 @@
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\161122\CompositeReal\bin\Debug\net6.0\CompositeReal.exe
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\161122\CompositeReal\bin\Debug\net6.0\CompositeReal.deps.json
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\161122\CompositeReal\bin\Debug\net6.0\CompositeReal.runtimeconfig.json
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\161122\CompositeReal\bin\Debug\net6.0\CompositeReal.dll
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\161122\CompositeReal\bin\Debug\net6.0\CompositeReal.pdb
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\161122\CompositeReal\obj\Debug\net6.0\CompositeReal.csproj.AssemblyReference.cache
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\161122\CompositeReal\obj\Debug\net6.0\CompositeReal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\161122\CompositeReal\obj\Debug\net6.0\CompositeReal.AssemblyInfoInputs.cache
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\161122\CompositeReal\obj\Debug\net6.0\CompositeReal.AssemblyInfo.cs
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\161122\CompositeReal\obj\Debug\net6.0\CompositeReal.csproj.CoreCompileInputs.cache
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\161122\CompositeReal\obj\Debug\net6.0\CompositeReal.dll
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\161122\CompositeReal\obj\Debug\net6.0\refint\CompositeReal.dll
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\161122\CompositeReal\obj\Debug\net6.0\CompositeReal.pdb
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\161122\CompositeReal\obj\Debug\net6.0\CompositeReal.genruntimeconfig.cache
+C:\Users\Ana\Documents\GitHub\ejercicios-arquitectura\161122\CompositeReal\obj\Debug\net6.0\ref\CompositeReal.dll
