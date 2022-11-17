@@ -9,13 +9,17 @@ Como una pequeña nota, es importante aclarar que se tuvo que hacer un método e
 ``` C#
 XNode xml = JsonConvert.DeserializeXNode("{\"element\":" + responseBody + "}", "root");
 ```
+Y de igual forma, se debe correr el siguiente comando para que permite la conexión con el localhost.
+``` C#
+dotnet dev-certs https --trust
+```
 
 - [Endpoint 1](https://localhost:7076/WeatherForecast)
-```
+``` json
 [{"date":"2022-11-16T11:50:13.4713793-06:00","temperatureC":25,"temperatureF":76,"summary":"Sweltering"},{"date":"2022-11-17T11:50:13.4713894-06:00","temperatureC":25,"temperatureF":76,"summary":"Balmy"},{"date":"2022-11-18T11:50:13.4713897-06:00","temperatureC":44,"temperatureF":111,"summary":"Chilly"},{"date":"2022-11-19T11:50:13.4713899-06:00","temperatureC":-16,"temperatureF":4,"summary":"Hot"},{"date":"2022-11-20T11:50:13.4713902-06:00","temperatureC":-15,"temperatureF":6,"summary":"Bracing"}]
 ```
 - [Endpoint 2](https://localhost:7076/Adapter)
-```
+``` xml
 <root>
   <element>
     <date>2022-11-16T11:50:02.2061605-06:00</date>
