@@ -26,16 +26,16 @@
             Console.WriteLine("-----");
 
             //Creamos una instancia
-            CAuto auto = new CAuto("Toyota", 2019, 1000000);
+            CCelular auto = new CCelular("Samsung S22+", 2019, 22000);
 
             //Lo colocamos como prototipo
             admin.AdicionaPrototipo("Auto", auto);
 
             //Obtenemos un objeto del prototipo anterior
-            CAuto auto2 = (CAuto)admin.ObtenPrototipo("Auto");
+            CCelular auto2 = (CCelular)admin.ObtenPrototipo("Auto");
 
             //Cambiamos el estado
-            auto2.Modelo = "Cadillac";
+            auto2.Modelo = "Huawei P20 Lite";
 
             Console.WriteLine(auto);
             Console.WriteLine(auto2);

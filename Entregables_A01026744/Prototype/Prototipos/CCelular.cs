@@ -1,6 +1,6 @@
 namespace Patron.Prototype
 {
-    class CAuto : IPrototipo
+    class CCelular : IPrototipo
     {
         private string modelo;
         private int year;
@@ -9,7 +9,7 @@ namespace Patron.Prototype
 
         public string Modelo { get => modelo; set => modelo = value; }
 
-        public CAuto(string pModelo, int pYear, int pCosto)
+        public CCelular(string pModelo, int pYear, int pCosto)
         {
             modelo = pModelo;
             year = pYear;
@@ -22,7 +22,7 @@ namespace Patron.Prototype
         }
         public object Clonar()
         {
-            CAuto clon = new CAuto(modelo, year, costo);
+            CCelular clon = new CCelular(modelo, year, costo);
 
             return clon;
         }
